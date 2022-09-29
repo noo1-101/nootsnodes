@@ -1,0 +1,12 @@
+{
+  "item.nodes.raw_tanzanite": "Raw Tanzanite",
+  "item.nodes.tanzanite": "Tanzanite",
+
+  "block.nodes.tanzanite_block": "Block of Tanzanite",
+  "block.nodes.tanzanite_ore": "Tanzanite Ore",
+  "block.nodes.deepslate_tanzanite_ore": "Deepslate Tanzanite Ore",
+  "block.nodes.netherrack_tanzanite_ore": "Netherack Tanzanite Ore",
+  "block.nodes.endstone_tanzanite_ore": "Endstone Tanzanite Ore",
+
+  "itemGroup.nodes.tanzanite": "Tanzanite Mod Tab"
+}
