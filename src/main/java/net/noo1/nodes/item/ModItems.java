@@ -6,6 +6,7 @@ import net.minecraft.item.ItemGroup;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 import net.noo1.nodes.Nodes;
+import net.noo1.nodes.item.custom.EightBallItem;
 
 public class ModItems {
 
@@ -13,6 +14,12 @@ public class ModItems {
             new Item(new FabricItemSettings().group(ModItemGroup.TANZANITE)));
     public static final Item TANZANITE = registerItem("tanzanite",
             new Item(new FabricItemSettings().group(ModItemGroup.TANZANITE)));
+
+
+        // CUSTOM
+
+    public static final Item EIGHT_BALL = registerItem("eight_ball",
+            new EightBallItem(new FabricItemSettings().group(ModItemGroup.TANZANITE).maxCount(1)));
 
 
 
